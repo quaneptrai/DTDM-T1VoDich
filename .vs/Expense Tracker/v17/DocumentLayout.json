@@ -1,0 +1,404 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HACOM\\Downloads\\Compressed\\Expense-Tracker-App-in-Asp.Net-Core-MVC-main\\DTDM-T1VoDich\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0B8E3BF2-A3D7-4339-94C9-B369DD9D8388}|Expense Tracker\\Expense Tracker.csproj|c:\\users\\hacom\\downloads\\compressed\\expense-tracker-app-in-asp.net-core-mvc-main\\dtdm-t1vodich\\expense tracker\\expense tracker.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{0B8E3BF2-A3D7-4339-94C9-B369DD9D8388}|Expense Tracker\\Expense Tracker.csproj|solutionrelative:expense tracker\\expense tracker.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B8E3BF2-A3D7-4339-94C9-B369DD9D8388}|Expense Tracker\\Expense Tracker.csproj|c:\\users\\hacom\\downloads\\compressed\\expense-tracker-app-in-asp.net-core-mvc-main\\dtdm-t1vodich\\expense tracker\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B8E3BF2-A3D7-4339-94C9-B369DD9D8388}|Expense Tracker\\Expense Tracker.csproj|solutionrelative:expense tracker\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B8E3BF2-A3D7-4339-94C9-B369DD9D8388}|Expense Tracker\\Expense Tracker.csproj|c:\\users\\hacom\\downloads\\compressed\\expense-tracker-app-in-asp.net-core-mvc-main\\dtdm-t1vodich\\expense tracker\\wwwroot\\profile.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{0B8E3BF2-A3D7-4339-94C9-B369DD9D8388}|Expense Tracker\\Expense Tracker.csproj|solutionrelative:expense tracker\\wwwroot\\profile.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B8E3BF2-A3D7-4339-94C9-B369DD9D8388}|Expense Tracker\\Expense Tracker.csproj|c:\\users\\hacom\\downloads\\compressed\\expense-tracker-app-in-asp.net-core-mvc-main\\dtdm-t1vodich\\expense tracker\\wwwroot\\logo.png||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{0B8E3BF2-A3D7-4339-94C9-B369DD9D8388}|Expense Tracker\\Expense Tracker.csproj|solutionrelative:expense tracker\\wwwroot\\logo.png||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B8E3BF2-A3D7-4339-94C9-B369DD9D8388}|Expense Tracker\\Expense Tracker.csproj|c:\\users\\hacom\\downloads\\compressed\\expense-tracker-app-in-asp.net-core-mvc-main\\dtdm-t1vodich\\expense tracker\\wwwroot\\favicon-32x32.png||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{0B8E3BF2-A3D7-4339-94C9-B369DD9D8388}|Expense Tracker\\Expense Tracker.csproj|solutionrelative:expense tracker\\wwwroot\\favicon-32x32.png||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B8E3BF2-A3D7-4339-94C9-B369DD9D8388}|Expense Tracker\\Expense Tracker.csproj|c:\\users\\hacom\\downloads\\compressed\\expense-tracker-app-in-asp.net-core-mvc-main\\dtdm-t1vodich\\expense tracker\\wwwroot\\favicon-16x16.png||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{0B8E3BF2-A3D7-4339-94C9-B369DD9D8388}|Expense Tracker\\Expense Tracker.csproj|solutionrelative:expense tracker\\wwwroot\\favicon-16x16.png||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B8E3BF2-A3D7-4339-94C9-B369DD9D8388}|Expense Tracker\\Expense Tracker.csproj|c:\\users\\hacom\\downloads\\compressed\\expense-tracker-app-in-asp.net-core-mvc-main\\dtdm-t1vodich\\expense tracker\\wwwroot\\favicon.ico||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{0B8E3BF2-A3D7-4339-94C9-B369DD9D8388}|Expense Tracker\\Expense Tracker.csproj|solutionrelative:expense tracker\\wwwroot\\favicon.ico||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B8E3BF2-A3D7-4339-94C9-B369DD9D8388}|Expense Tracker\\Expense Tracker.csproj|c:\\users\\hacom\\downloads\\compressed\\expense-tracker-app-in-asp.net-core-mvc-main\\dtdm-t1vodich\\expense tracker\\expense tracker.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{0B8E3BF2-A3D7-4339-94C9-B369DD9D8388}|Expense Tracker\\Expense Tracker.csproj|solutionrelative:expense tracker\\expense tracker.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B8E3BF2-A3D7-4339-94C9-B369DD9D8388}|Expense Tracker\\Expense Tracker.csproj|c:\\users\\hacom\\downloads\\compressed\\expense-tracker-app-in-asp.net-core-mvc-main\\dtdm-t1vodich\\expense tracker\\views\\shared\\_sidebar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0B8E3BF2-A3D7-4339-94C9-B369DD9D8388}|Expense Tracker\\Expense Tracker.csproj|solutionrelative:expense tracker\\views\\shared\\_sidebar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B8E3BF2-A3D7-4339-94C9-B369DD9D8388}|Expense Tracker\\Expense Tracker.csproj|c:\\users\\hacom\\downloads\\compressed\\expense-tracker-app-in-asp.net-core-mvc-main\\dtdm-t1vodich\\expense tracker\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0B8E3BF2-A3D7-4339-94C9-B369DD9D8388}|Expense Tracker\\Expense Tracker.csproj|solutionrelative:expense tracker\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B8E3BF2-A3D7-4339-94C9-B369DD9D8388}|Expense Tracker\\Expense Tracker.csproj|c:\\users\\hacom\\downloads\\compressed\\expense-tracker-app-in-asp.net-core-mvc-main\\dtdm-t1vodich\\expense tracker\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0B8E3BF2-A3D7-4339-94C9-B369DD9D8388}|Expense Tracker\\Expense Tracker.csproj|solutionrelative:expense tracker\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B8E3BF2-A3D7-4339-94C9-B369DD9D8388}|Expense Tracker\\Expense Tracker.csproj|c:\\users\\hacom\\downloads\\compressed\\expense-tracker-app-in-asp.net-core-mvc-main\\dtdm-t1vodich\\expense tracker\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0B8E3BF2-A3D7-4339-94C9-B369DD9D8388}|Expense Tracker\\Expense Tracker.csproj|solutionrelative:expense tracker\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B8E3BF2-A3D7-4339-94C9-B369DD9D8388}|Expense Tracker\\Expense Tracker.csproj|c:\\users\\hacom\\downloads\\compressed\\expense-tracker-app-in-asp.net-core-mvc-main\\dtdm-t1vodich\\expense tracker\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0B8E3BF2-A3D7-4339-94C9-B369DD9D8388}|Expense Tracker\\Expense Tracker.csproj|solutionrelative:expense tracker\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B8E3BF2-A3D7-4339-94C9-B369DD9D8388}|Expense Tracker\\Expense Tracker.csproj|c:\\users\\hacom\\downloads\\compressed\\expense-tracker-app-in-asp.net-core-mvc-main\\dtdm-t1vodich\\expense tracker\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0B8E3BF2-A3D7-4339-94C9-B369DD9D8388}|Expense Tracker\\Expense Tracker.csproj|solutionrelative:expense tracker\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B8E3BF2-A3D7-4339-94C9-B369DD9D8388}|Expense Tracker\\Expense Tracker.csproj|c:\\users\\hacom\\downloads\\compressed\\expense-tracker-app-in-asp.net-core-mvc-main\\dtdm-t1vodich\\expense tracker\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0B8E3BF2-A3D7-4339-94C9-B369DD9D8388}|Expense Tracker\\Expense Tracker.csproj|solutionrelative:expense tracker\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B8E3BF2-A3D7-4339-94C9-B369DD9D8388}|Expense Tracker\\Expense Tracker.csproj|c:\\users\\hacom\\downloads\\compressed\\expense-tracker-app-in-asp.net-core-mvc-main\\dtdm-t1vodich\\expense tracker\\models\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B8E3BF2-A3D7-4339-94C9-B369DD9D8388}|Expense Tracker\\Expense Tracker.csproj|solutionrelative:expense tracker\\models\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B8E3BF2-A3D7-4339-94C9-B369DD9D8388}|Expense Tracker\\Expense Tracker.csproj|c:\\users\\hacom\\downloads\\compressed\\expense-tracker-app-in-asp.net-core-mvc-main\\dtdm-t1vodich\\expense tracker\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B8E3BF2-A3D7-4339-94C9-B369DD9D8388}|Expense Tracker\\Expense Tracker.csproj|solutionrelative:expense tracker\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B8E3BF2-A3D7-4339-94C9-B369DD9D8388}|Expense Tracker\\Expense Tracker.csproj|c:\\users\\hacom\\downloads\\compressed\\expense-tracker-app-in-asp.net-core-mvc-main\\dtdm-t1vodich\\expense tracker\\models\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B8E3BF2-A3D7-4339-94C9-B369DD9D8388}|Expense Tracker\\Expense Tracker.csproj|solutionrelative:expense tracker\\models\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B8E3BF2-A3D7-4339-94C9-B369DD9D8388}|Expense Tracker\\Expense Tracker.csproj|c:\\users\\hacom\\downloads\\compressed\\expense-tracker-app-in-asp.net-core-mvc-main\\dtdm-t1vodich\\expense tracker\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B8E3BF2-A3D7-4339-94C9-B369DD9D8388}|Expense Tracker\\Expense Tracker.csproj|solutionrelative:expense tracker\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B8E3BF2-A3D7-4339-94C9-B369DD9D8388}|Expense Tracker\\Expense Tracker.csproj|c:\\users\\hacom\\downloads\\compressed\\expense-tracker-app-in-asp.net-core-mvc-main\\dtdm-t1vodich\\expense tracker\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0B8E3BF2-A3D7-4339-94C9-B369DD9D8388}|Expense Tracker\\Expense Tracker.csproj|solutionrelative:expense tracker\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B8E3BF2-A3D7-4339-94C9-B369DD9D8388}|Expense Tracker\\Expense Tracker.csproj|c:\\users\\hacom\\downloads\\compressed\\expense-tracker-app-in-asp.net-core-mvc-main\\dtdm-t1vodich\\expense tracker\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0B8E3BF2-A3D7-4339-94C9-B369DD9D8388}|Expense Tracker\\Expense Tracker.csproj|solutionrelative:expense tracker\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B8E3BF2-A3D7-4339-94C9-B369DD9D8388}|Expense Tracker\\Expense Tracker.csproj|c:\\users\\hacom\\downloads\\compressed\\expense-tracker-app-in-asp.net-core-mvc-main\\dtdm-t1vodich\\expense tracker\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0B8E3BF2-A3D7-4339-94C9-B369DD9D8388}|Expense Tracker\\Expense Tracker.csproj|solutionrelative:expense tracker\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B8E3BF2-A3D7-4339-94C9-B369DD9D8388}|Expense Tracker\\Expense Tracker.csproj|c:\\users\\hacom\\downloads\\compressed\\expense-tracker-app-in-asp.net-core-mvc-main\\dtdm-t1vodich\\expense tracker\\views\\transaction\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0B8E3BF2-A3D7-4339-94C9-B369DD9D8388}|Expense Tracker\\Expense Tracker.csproj|solutionrelative:expense tracker\\views\\transaction\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B8E3BF2-A3D7-4339-94C9-B369DD9D8388}|Expense Tracker\\Expense Tracker.csproj|c:\\users\\hacom\\downloads\\compressed\\expense-tracker-app-in-asp.net-core-mvc-main\\dtdm-t1vodich\\expense tracker\\migrations\\20241203163422_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B8E3BF2-A3D7-4339-94C9-B369DD9D8388}|Expense Tracker\\Expense Tracker.csproj|solutionrelative:expense tracker\\migrations\\20241203163422_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Expense Tracker",
+              "DocumentMoniker": "C:\\Users\\HACOM\\Downloads\\Compressed\\Expense-Tracker-App-in-Asp.Net-Core-MVC-main\\DTDM-T1VoDich\\Expense Tracker\\Expense Tracker.csproj",
+              "RelativeDocumentMoniker": "Expense Tracker\\Expense Tracker.csproj",
+              "ToolTip": "C:\\Users\\HACOM\\Downloads\\Compressed\\Expense-Tracker-App-in-Asp.Net-Core-MVC-main\\DTDM-T1VoDich\\Expense Tracker\\Expense Tracker.csproj",
+              "RelativeToolTip": "Expense Tracker\\Expense Tracker.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-03T16:53:47.88Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DashboardController.cs",
+              "DocumentMoniker": "C:\\Users\\HACOM\\Downloads\\Compressed\\Expense-Tracker-App-in-Asp.Net-Core-MVC-main\\DTDM-T1VoDich\\Expense Tracker\\Controllers\\DashboardController.cs",
+              "RelativeDocumentMoniker": "Expense Tracker\\Controllers\\DashboardController.cs",
+              "ToolTip": "C:\\Users\\HACOM\\Downloads\\Compressed\\Expense-Tracker-App-in-Asp.Net-Core-MVC-main\\DTDM-T1VoDich\\Expense Tracker\\Controllers\\DashboardController.cs",
+              "RelativeToolTip": "Expense Tracker\\Controllers\\DashboardController.cs",
+              "ViewState": "AgIAADsAAAAAAAAAAAAiwEYAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T16:50:21.108Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "logo.png - PNG [50x50, 32 bit, PNG]",
+              "DocumentMoniker": "C:\\Users\\HACOM\\Downloads\\Compressed\\Expense-Tracker-App-in-Asp.Net-Core-MVC-main\\DTDM-T1VoDich\\Expense Tracker\\wwwroot\\logo.png",
+              "RelativeDocumentMoniker": "Expense Tracker\\wwwroot\\logo.png",
+              "ToolTip": "C:\\Users\\HACOM\\Downloads\\Compressed\\Expense-Tracker-App-in-Asp.Net-Core-MVC-main\\DTDM-T1VoDich\\Expense Tracker\\wwwroot\\logo.png - PNG [50x50, 32 bit, PNG]",
+              "RelativeToolTip": "Expense Tracker\\wwwroot\\logo.png - PNG [50x50, 32 bit, PNG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-12-03T16:50:17.056Z",
+              "EditorCaption": " - PNG [50x50, 32 bit, PNG]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "favicon-32x32.png - PNG [32x32, 32 bit, PNG]",
+              "DocumentMoniker": "C:\\Users\\HACOM\\Downloads\\Compressed\\Expense-Tracker-App-in-Asp.Net-Core-MVC-main\\DTDM-T1VoDich\\Expense Tracker\\wwwroot\\favicon-32x32.png",
+              "RelativeDocumentMoniker": "Expense Tracker\\wwwroot\\favicon-32x32.png",
+              "ToolTip": "C:\\Users\\HACOM\\Downloads\\Compressed\\Expense-Tracker-App-in-Asp.Net-Core-MVC-main\\DTDM-T1VoDich\\Expense Tracker\\wwwroot\\favicon-32x32.png - PNG [32x32, 32 bit, PNG]",
+              "RelativeToolTip": "Expense Tracker\\wwwroot\\favicon-32x32.png - PNG [32x32, 32 bit, PNG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-12-03T16:50:16.366Z",
+              "EditorCaption": " - PNG [32x32, 32 bit, PNG]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "favicon-16x16.png - PNG [16x16, 32 bit, PNG]",
+              "DocumentMoniker": "C:\\Users\\HACOM\\Downloads\\Compressed\\Expense-Tracker-App-in-Asp.Net-Core-MVC-main\\DTDM-T1VoDich\\Expense Tracker\\wwwroot\\favicon-16x16.png",
+              "RelativeDocumentMoniker": "Expense Tracker\\wwwroot\\favicon-16x16.png",
+              "ToolTip": "C:\\Users\\HACOM\\Downloads\\Compressed\\Expense-Tracker-App-in-Asp.Net-Core-MVC-main\\DTDM-T1VoDich\\Expense Tracker\\wwwroot\\favicon-16x16.png - PNG [16x16, 32 bit, PNG]",
+              "RelativeToolTip": "Expense Tracker\\wwwroot\\favicon-16x16.png - PNG [16x16, 32 bit, PNG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-12-03T16:50:15.789Z",
+              "EditorCaption": " - PNG [16x16, 32 bit, PNG]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "profile.jpg - Bitmap [1920x1280, 24 bit, JPG]",
+              "DocumentMoniker": "C:\\Users\\HACOM\\Downloads\\Compressed\\Expense-Tracker-App-in-Asp.Net-Core-MVC-main\\DTDM-T1VoDich\\Expense Tracker\\wwwroot\\profile.jpg",
+              "RelativeDocumentMoniker": "Expense Tracker\\wwwroot\\profile.jpg",
+              "ToolTip": "C:\\Users\\HACOM\\Downloads\\Compressed\\Expense-Tracker-App-in-Asp.Net-Core-MVC-main\\DTDM-T1VoDich\\Expense Tracker\\wwwroot\\profile.jpg - Bitmap [1920x1280, 24 bit, JPG]",
+              "RelativeToolTip": "Expense Tracker\\wwwroot\\profile.jpg - Bitmap [1920x1280, 24 bit, JPG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-12-03T16:49:34.904Z",
+              "EditorCaption": " - Bitmap [1920x1280, 24 bit, JPG]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "favicon.ico - Icon [16x16, 32 bit, BMP]",
+              "DocumentMoniker": "C:\\Users\\HACOM\\Downloads\\Compressed\\Expense-Tracker-App-in-Asp.Net-Core-MVC-main\\DTDM-T1VoDich\\Expense Tracker\\wwwroot\\favicon.ico",
+              "RelativeDocumentMoniker": "Expense Tracker\\wwwroot\\favicon.ico",
+              "ToolTip": "C:\\Users\\HACOM\\Downloads\\Compressed\\Expense-Tracker-App-in-Asp.Net-Core-MVC-main\\DTDM-T1VoDich\\Expense Tracker\\wwwroot\\favicon.ico - Icon [16x16, 32 bit, BMP]",
+              "RelativeToolTip": "Expense Tracker\\wwwroot\\favicon.ico - Icon [16x16, 32 bit, BMP]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001525|",
+              "WhenOpened": "2024-12-03T16:50:14.604Z",
+              "EditorCaption": " - Icon [16x16, 32 bit, BMP]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\Users\\HACOM\\Downloads\\Compressed\\Expense-Tracker-App-in-Asp.Net-Core-MVC-main\\DTDM-T1VoDich\\Expense Tracker\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "Expense Tracker\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "C:\\Users\\HACOM\\Downloads\\Compressed\\Expense-Tracker-App-in-Asp.Net-Core-MVC-main\\DTDM-T1VoDich\\Expense Tracker\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "Expense Tracker\\Views\\Shared\\Error.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-03T16:43:56.858Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\HACOM\\Downloads\\Compressed\\Expense-Tracker-App-in-Asp.Net-Core-MVC-main\\DTDM-T1VoDich\\Expense Tracker\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Expense Tracker\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\HACOM\\Downloads\\Compressed\\Expense-Tracker-App-in-Asp.Net-Core-MVC-main\\DTDM-T1VoDich\\Expense Tracker\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Expense Tracker\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-03T16:43:54.959Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\HACOM\\Downloads\\Compressed\\Expense-Tracker-App-in-Asp.Net-Core-MVC-main\\DTDM-T1VoDich\\Expense Tracker\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Expense Tracker\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\HACOM\\Downloads\\Compressed\\Expense-Tracker-App-in-Asp.Net-Core-MVC-main\\DTDM-T1VoDich\\Expense Tracker\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Expense Tracker\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-03T16:43:53.917Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_SideBar.cshtml",
+              "DocumentMoniker": "C:\\Users\\HACOM\\Downloads\\Compressed\\Expense-Tracker-App-in-Asp.Net-Core-MVC-main\\DTDM-T1VoDich\\Expense Tracker\\Views\\Shared\\_SideBar.cshtml",
+              "RelativeDocumentMoniker": "Expense Tracker\\Views\\Shared\\_SideBar.cshtml",
+              "ToolTip": "C:\\Users\\HACOM\\Downloads\\Compressed\\Expense-Tracker-App-in-Asp.Net-Core-MVC-main\\DTDM-T1VoDich\\Expense Tracker\\Views\\Shared\\_SideBar.cshtml",
+              "RelativeToolTip": "Expense Tracker\\Views\\Shared\\_SideBar.cshtml",
+              "ViewState": "AgIAADAAAAAAAAAAAAAAAEEAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-03T16:18:27.652Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Expense Tracker.csproj",
+              "DocumentMoniker": "C:\\Users\\HACOM\\Downloads\\Compressed\\Expense-Tracker-App-in-Asp.Net-Core-MVC-main\\DTDM-T1VoDich\\Expense Tracker\\Expense Tracker.csproj",
+              "RelativeDocumentMoniker": "Expense Tracker\\Expense Tracker.csproj",
+              "ToolTip": "C:\\Users\\HACOM\\Downloads\\Compressed\\Expense-Tracker-App-in-Asp.Net-Core-MVC-main\\DTDM-T1VoDich\\Expense Tracker\\Expense Tracker.csproj",
+              "RelativeToolTip": "Expense Tracker\\Expense Tracker.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-03T16:33:24.439Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\HACOM\\Downloads\\Compressed\\Expense-Tracker-App-in-Asp.Net-Core-MVC-main\\DTDM-T1VoDich\\Expense Tracker\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "Expense Tracker\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\HACOM\\Downloads\\Compressed\\Expense-Tracker-App-in-Asp.Net-Core-MVC-main\\DTDM-T1VoDich\\Expense Tracker\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "Expense Tracker\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-03T16:43:58.912Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\HACOM\\Downloads\\Compressed\\Expense-Tracker-App-in-Asp.Net-Core-MVC-main\\DTDM-T1VoDich\\Expense Tracker\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Expense Tracker\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\HACOM\\Downloads\\Compressed\\Expense-Tracker-App-in-Asp.Net-Core-MVC-main\\DTDM-T1VoDich\\Expense Tracker\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Expense Tracker\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAADkAAAAAAAAAAAAAADUAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-03T16:40:50.841Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\HACOM\\Downloads\\Compressed\\Expense-Tracker-App-in-Asp.Net-Core-MVC-main\\DTDM-T1VoDich\\Expense Tracker\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Expense Tracker\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\HACOM\\Downloads\\Compressed\\Expense-Tracker-App-in-Asp.Net-Core-MVC-main\\DTDM-T1VoDich\\Expense Tracker\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Expense Tracker\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-03T16:40:45.642Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "20241203163422_initialcreate.cs",
+              "DocumentMoniker": "C:\\Users\\HACOM\\Downloads\\Compressed\\Expense-Tracker-App-in-Asp.Net-Core-MVC-main\\DTDM-T1VoDich\\Expense Tracker\\Migrations\\20241203163422_initialcreate.cs",
+              "RelativeDocumentMoniker": "Expense Tracker\\Migrations\\20241203163422_initialcreate.cs",
+              "ToolTip": "C:\\Users\\HACOM\\Downloads\\Compressed\\Expense-Tracker-App-in-Asp.Net-Core-MVC-main\\DTDM-T1VoDich\\Expense Tracker\\Migrations\\20241203163422_initialcreate.cs",
+              "RelativeToolTip": "Expense Tracker\\Migrations\\20241203163422_initialcreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T16:34:22.705Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Transaction.cs",
+              "DocumentMoniker": "C:\\Users\\HACOM\\Downloads\\Compressed\\Expense-Tracker-App-in-Asp.Net-Core-MVC-main\\DTDM-T1VoDich\\Expense Tracker\\Models\\Transaction.cs",
+              "RelativeDocumentMoniker": "Expense Tracker\\Models\\Transaction.cs",
+              "ToolTip": "C:\\Users\\HACOM\\Downloads\\Compressed\\Expense-Tracker-App-in-Asp.Net-Core-MVC-main\\DTDM-T1VoDich\\Expense Tracker\\Models\\Transaction.cs",
+              "RelativeToolTip": "Expense Tracker\\Models\\Transaction.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T16:28:17.872Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\HACOM\\Downloads\\Compressed\\Expense-Tracker-App-in-Asp.Net-Core-MVC-main\\DTDM-T1VoDich\\Expense Tracker\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "Expense Tracker\\Models\\Category.cs",
+              "ToolTip": "C:\\Users\\HACOM\\Downloads\\Compressed\\Expense-Tracker-App-in-Asp.Net-Core-MVC-main\\DTDM-T1VoDich\\Expense Tracker\\Models\\Category.cs",
+              "RelativeToolTip": "Expense Tracker\\Models\\Category.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T16:28:14.607Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\HACOM\\Downloads\\Compressed\\Expense-Tracker-App-in-Asp.Net-Core-MVC-main\\DTDM-T1VoDich\\Expense Tracker\\Models\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Expense Tracker\\Models\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\HACOM\\Downloads\\Compressed\\Expense-Tracker-App-in-Asp.Net-Core-MVC-main\\DTDM-T1VoDich\\Expense Tracker\\Models\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Expense Tracker\\Models\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T16:23:39.131Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\HACOM\\Downloads\\Compressed\\Expense-Tracker-App-in-Asp.Net-Core-MVC-main\\DTDM-T1VoDich\\Expense Tracker\\Program.cs",
+              "RelativeDocumentMoniker": "Expense Tracker\\Program.cs",
+              "ToolTip": "C:\\Users\\HACOM\\Downloads\\Compressed\\Expense-Tracker-App-in-Asp.Net-Core-MVC-main\\DTDM-T1VoDich\\Expense Tracker\\Program.cs",
+              "RelativeToolTip": "Expense Tracker\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T16:21:31.79Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\HACOM\\Downloads\\Compressed\\Expense-Tracker-App-in-Asp.Net-Core-MVC-main\\DTDM-T1VoDich\\Expense Tracker\\appsettings.json",
+              "RelativeDocumentMoniker": "Expense Tracker\\appsettings.json",
+              "ToolTip": "C:\\Users\\HACOM\\Downloads\\Compressed\\Expense-Tracker-App-in-Asp.Net-Core-MVC-main\\DTDM-T1VoDich\\Expense Tracker\\appsettings.json",
+              "RelativeToolTip": "Expense Tracker\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAACbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-03T16:18:37.486Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\HACOM\\Downloads\\Compressed\\Expense-Tracker-App-in-Asp.Net-Core-MVC-main\\DTDM-T1VoDich\\Expense Tracker\\Views\\Category\\Index.cshtml",
+              "RelativeDocumentMoniker": "Expense Tracker\\Views\\Category\\Index.cshtml",
+              "ToolTip": "C:\\Users\\HACOM\\Downloads\\Compressed\\Expense-Tracker-App-in-Asp.Net-Core-MVC-main\\DTDM-T1VoDich\\Expense Tracker\\Views\\Category\\Index.cshtml",
+              "RelativeToolTip": "Expense Tracker\\Views\\Category\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-03T16:18:27.527Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\HACOM\\Downloads\\Compressed\\Expense-Tracker-App-in-Asp.Net-Core-MVC-main\\DTDM-T1VoDich\\Expense Tracker\\Views\\Transaction\\Index.cshtml",
+              "RelativeDocumentMoniker": "Expense Tracker\\Views\\Transaction\\Index.cshtml",
+              "ToolTip": "C:\\Users\\HACOM\\Downloads\\Compressed\\Expense-Tracker-App-in-Asp.Net-Core-MVC-main\\DTDM-T1VoDich\\Expense Tracker\\Views\\Transaction\\Index.cshtml",
+              "RelativeToolTip": "Expense Tracker\\Views\\Transaction\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAB7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-03T16:18:27.654Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\HACOM\\Downloads\\Compressed\\Expense-Tracker-App-in-Asp.Net-Core-MVC-main\\DTDM-T1VoDich\\Expense Tracker\\Views\\Dashboard\\Index.cshtml",
+              "RelativeDocumentMoniker": "Expense Tracker\\Views\\Dashboard\\Index.cshtml",
+              "ToolTip": "C:\\Users\\HACOM\\Downloads\\Compressed\\Expense-Tracker-App-in-Asp.Net-Core-MVC-main\\DTDM-T1VoDich\\Expense Tracker\\Views\\Dashboard\\Index.cshtml",
+              "RelativeToolTip": "Expense Tracker\\Views\\Dashboard\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAD8AAABUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-03T16:18:27.656Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
